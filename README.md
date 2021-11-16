@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello there! I'm Matheus! 👾 
+
+As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming on 2020, because I love to help people and I discovered that, through it, I could help many of them.
+
+Today, I work as intern on a brazilian edtech named [Layers Education](https://layers.education) and pursue the dream to become a Cadet at [42Sp](https://42sp.org.br).
+
 
 <!--
 **matheusleo/matheusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
