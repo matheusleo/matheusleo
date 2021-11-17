@@ -11,7 +11,7 @@
         42Sp</a>.
     </div>
 </section>
-<hr>
+
 
 ## What I like to do?
 
