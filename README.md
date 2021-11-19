@@ -48,4 +48,4 @@ One of my projects that you can check is my [personal portfolio](https://matheus
 
 Another one of my projects was this Text Editor which is currently being used on the Super App by [Layers Education](https://layers.education)
 
-<img width="100%" src="./assets/layers-text-editor.gif">
+<img src="./assets/layers-text-editor.gif">
