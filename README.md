@@ -12,7 +12,6 @@
     </div>
 </section>
 
-
 ## What I like to do?
 
 I have many hobbies (maybe too many hobbies): I love to learn about programming, sciences and storytelling - stories and myths are what shapes us.
@@ -23,6 +22,27 @@ I have many hobbies (maybe too many hobbies): I love to learn about programming,
         -- Albert Einstein
     </blockquote>
 </div>
+
+## What I have been using?
+
+### Languages & Frameworks
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### OS & Tools
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+That is what I have alredy seen, but I do not pretend to stop here! I will hold on to my studies to learn each time more and more.
+
+
 
 <!--
 **matheusleo/matheusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
