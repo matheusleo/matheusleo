@@ -3,7 +3,7 @@
 <section display="flex">
     <div display="inline">
         <img align="right" width="175px" src="https://c.tenor.com/HnjS5_4dwYQAAAAM/ponteverga-einstein.gif" />
-        As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming on 2020, because I love to help people and I discovered that, through it, I could help many of them.
+        As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming on 2020 during the college and embrace it, because loved it and I love to help people and, through it, I can help many of them.
         <br>
         <br>
         Today, I work as intern on a brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
