@@ -42,7 +42,9 @@ I have many hobbies (maybe too many hobbies): I love to learn about programming,
 
 That is what I have alredy seen, but I do not pretend to stop here! I will hold on to my studies to learn each time more and more.
 
+## What I already did?
 
+One of my projects that you can check is my [personal portfolio](https://matheusleo.github.io/my-profile/) - which I will update and, maybe, release a version 2.0 with a new design and using new tools.
 
 <!--
 **matheusleo/matheusleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
