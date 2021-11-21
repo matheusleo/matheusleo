@@ -3,11 +3,11 @@
 <section display="flex">
     <div display="inline">
         <img align="right" width="175px" src="https://c.tenor.com/HnjS5_4dwYQAAAAM/ponteverga-einstein.gif" />
-        As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming on 2020 during the college and embrace it, because loved it and I love to help people and, through it, I can help many of them.
+        As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming in 2020 during college and embrace it, because I loved it and I love to help people and, through it, I can help many of them.
         <br>
         <br>
-        Today, I work as intern on a brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
-        Layers Education</a> and pursue the dream to become a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
+        Today, I work as an intern on a Brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
+        Layers Education,</a> and I pursue the dream to become a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
         42Sp</a>.
     </div>
 </section>
@@ -40,9 +40,9 @@ I have many hobbies (maybe too many hobbies): I love to learn about programming,
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-That is what I have alredy seen, but I do not pretend to stop here! I will hold on to my studies to learn each time more and more.
+That is what I have already seen, but I do not plan to stop here! I will hold on to my studies to learn more and more.
 
-## What I already did?
+## What I have already done?
 
 One of my projects that you can check is my [personal portfolio](https://matheusleo.github.io/my-profile/) - which I will update and, maybe, release a version 2.0 with a new design and using new tools.
 
