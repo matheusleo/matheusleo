@@ -7,7 +7,7 @@
         <br>
         <br>
         Today, I work as an intern on a Brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
-        Layers Education,</a> and I pursue the dream to become a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
+        Layers Education,</a> and study as a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
         42Sp</a>.
     </div>
 </section>
