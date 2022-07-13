@@ -6,7 +6,7 @@
         As I said, my name is Matheus Leonardo and I'm from Brazil 🇧🇷! I started programming in 2020 during college and embrace it, because I loved it and I love to help people and, through it, I can help many of them.
         <br>
         <br>
-        Today, I work as an intern software engineer on a Brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
+        Today, I work as a <i>software engineer junior</i> on a Brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
         Layers Education,</a> and study as a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
         42Sp</a>. You can find me at Intra as <b>mleonard</b>.
     </div>
