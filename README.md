@@ -9,8 +9,16 @@
         Today, I work as a <i>software engineer junior</i> on a Brazilian edtech named  <a href="https://layers.education" target="_blank" rel="noopener noreferrer">
         Layers Education,</a> and study as a Cadet at <a href="https://42sp.org.br" target="_blank" rel="noopener noreferrer">
         42Sp</a>. You can find me at Intra as <b>mleonard</b>.
+        <br>
+        <br>
+        You can also see my profile in the <a href="https://gitlab.com/matheus.leonardo" target="_blank" rel="noopener noreferrer">GitLab</a>, which is my current main work tool!
     </div>
 </section>
+
+### Profiles
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusleo)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/matheus.leonardo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleo/)
 
 ## What I like to do?
 
@@ -38,8 +46,6 @@ I have many hobbies (maybe too many hobbies): I love to learn about programming,
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/matheus.leonardo)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/matheusleo)
 
 That is what I have already seen, but I do not plan to stop here! I will hold on to my studies to learn more and more.
