@@ -11,7 +11,7 @@
         42Sp</a>. You can find me at Intra as <b>mleonard</b>.
         <br>
         <br>
-        You can also see my profile in the <a href="https://gitlab.com/matheus.leonardo" target="_blank" rel="noopener noreferrer">GitLab</a>, which is my current main work tool!
+        You can also see my profile in the <a href="https://gitlab.com/matheusleo" target="_blank" rel="noopener noreferrer">GitLab</a>, which is my current main work tool!
     </div>
 </section>
 
