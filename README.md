@@ -48,6 +48,8 @@ I have many hobbies (maybe too many hobbies): I love to learn about programming,
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 ### Databases
+
+<!-- TODO: add postgreSQL -->
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234&ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
